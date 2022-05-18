@@ -11,3 +11,8 @@ PClub Self Assessment - Part A
     1. file *
     1. cat *
   - Password : boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+- Level 2 :
+  - Commands :
+    1. ls
+    2. cat ./-
+  - Password : CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
