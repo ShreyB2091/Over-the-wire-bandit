@@ -18,3 +18,9 @@ PClub Self Assessment - Part A
     2. cat ./-
     1. ssh bandit2@bandit.labs.overthewire.org -p 2220
   - Password : CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+- Level 2 -> Level 3 :
+  - Commands :
+    1. ls
+    2. cat *
+    3. ssh bandit3@bandit.labs.overthewire.org -p 2220
+  - Password : UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
