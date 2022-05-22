@@ -30,4 +30,13 @@ PClub Self Assessment - Part A
     2. cd inhere
     3. ls -a
     4. cat .*
+    5. ssh bandit4@bandit.labs.overthewire.org -p 2220
   - Password : pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+- Level 4 -> Level 5 :
+  - Commands :
+    1. ls
+    2. cd inhere
+    3. ls
+    4. find /dir/to/search -type f -print0 | xargs -0 file | grep text
+    5. ssh bandit5@bandit.labs.overthewire.org -p 2220
+  - Password : koReBOKuIDDepwhWk7jZC0RTdopnAYKh
