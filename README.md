@@ -24,3 +24,10 @@ PClub Self Assessment - Part A
     2. cat *
     3. ssh bandit3@bandit.labs.overthewire.org -p 2220
   - Password : UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+- Level 3 -> Level 4 :
+  - Commands :
+    1. ls
+    2. cd inhere
+    3. ls -a
+    4. cat .*
+  - Password : pIwrPrtPN36QITSp3EQaw936yaFoFgAB
