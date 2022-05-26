@@ -40,3 +40,12 @@ PClub Self Assessment - Part A
     4. find /dir/to/search -type f -print0 | xargs -0 file | grep text
     5. ssh bandit5@bandit.labs.overthewire.org -p 2220
   - Password : koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+- Level 5 -> Level 6 :
+  - Commands :
+    1. ls
+    2. cs inhere
+    3. find . -size 1033c
+    4. cd maybehere07
+    5. cat .file2
+    6. ssh bandit6@bandit.labs.overthewire.org -p 2220
+  - Password : DXjZPULLxYr17uwoI01bNLQbtFemEgo7
