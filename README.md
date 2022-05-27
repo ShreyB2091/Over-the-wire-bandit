@@ -49,3 +49,12 @@ PClub Self Assessment - Part A
     5. cat .file2
     6. ssh bandit6@bandit.labs.overthewire.org -p 2220
   - Password : DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+- Level 6 -> Level 7 :
+  - Commands :
+    1. ls
+    2. cd ..
+    3. cd ..
+    4. find -group banidt6 -user bandit7 -size 33c
+    5. cat var/lib/dpkg/info/bandit7.password
+    6. ssh bandit7@bandit.labs.overthewire.org -p 2220
+  - Password : HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
