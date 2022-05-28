@@ -58,3 +58,10 @@ PClub Self Assessment - Part A
     5. cat var/lib/dpkg/info/bandit7.password
     6. ssh bandit7@bandit.labs.overthewire.org -p 2220
   - Password : HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+- Level 7 -> Level 8 :
+  - Commands :
+    1. ls
+    2. grep -Rw 'data.txt' -e 'millionth'
+    3. ssh bandit8@bandit.labs.overthewire.org -p 2220
+  - Password : cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+ 
