@@ -64,4 +64,14 @@ PClub Self Assessment - Part A
     2. grep -Rw 'data.txt' -e 'millionth'
     3. ssh bandit8@bandit.labs.overthewire.org -p 2220
   - Password : cvX2JJa4CFALtqS87jk27qwqGhBM9plV
- 
+- Level 8 -> Level 9 :
+  - Commands :
+    1. ls
+    2. cat data.txt | sort | uniq -c -u
+    3. ssh bandit9@bandit.labs.overthewire.org -p 2220
+  - Password : UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+- Level 9 -> Level 10 :
+  - Commands :
+    1. ls
+    2. strings data.txt | grep ===
+  - Password : truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
