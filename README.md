@@ -74,4 +74,11 @@ PClub Self Assessment - Part A
   - Commands :
     1. ls
     2. strings data.txt | grep ===
+    3. ssh bandit10@bandit.labs.overthewire.org -p 2220
   - Password : truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+- Level 10 -> Level 11 :
+  - Commands :
+    1. ls
+    2. base64 -d data.txt
+    3. ssh bandit11@bandit.labs.overthewire.org -p 2220
+  - Password : IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
