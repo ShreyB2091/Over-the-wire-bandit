@@ -82,3 +82,6 @@ PClub Self Assessment - Part A
     2. base64 -d data.txt
     3. ssh bandit11@bandit.labs.overthewire.org -p 2220
   - Password : IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+- Level 11 -> Level 12 :
+  - Commands :
+    1. ls
