@@ -96,4 +96,33 @@ PClub Self Assessment - Part A
     4. cd /tmp/myname2091
     5. xxd -r data.txt finaldata
     6. file finaldata
+    7. mv finaldata data.gz
+    8. gzip -d data.gz
+    9. file data
+    10. mv data data.bz2
+    11. bzip2 -d data.bz2
+    12. file data
+    13. mv data data.gz
+    14. gzip -d data.gz
+    15. file data
+    16. mv data data.tar
+    17. tar xvf data.tar
+    18. file data5.bin
+    19. mv data5.bin data5.tar
+    20. tar xvf data5.tar
+    21. file data6.bin
+    22. mv data6.bin data6.tar
+    23. tar xvf data6.tar
+    24. file data8.bin
+    25. mv data8.bin data8.gz
+    26. gzip -d data8.gz
+    27. file data8
+    28. cat data8
+    29. rm -rf /tmp/myname2091
+    30. ssh bandit13@bandit.labs.overthewire.org -p 2220
+  - _Password :_ 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
+- **Level 13 -> Level 14** :
+  - _Commands :_
+    1. 
+
     
