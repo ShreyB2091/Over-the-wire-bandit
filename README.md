@@ -91,4 +91,9 @@ PClub Self Assessment - Part A
 - **Level 12 -> Level 13** :
   - _Commands :_
     1. ls
-    2. 
+    2. mkdir /tmp/myname2091
+    3. cp data.txt /tmp/myname2091
+    4. cd /tmp/myname2091
+    5. xxd -r data.txt finaldata
+    6. file finaldata
+    
