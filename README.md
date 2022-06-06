@@ -123,6 +123,12 @@ PClub Self Assessment - Part A
   - _Password :_ 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 - **Level 13 -> Level 14** :
   - _Commands :_
-    1. 
-
+    1.  ls
+    2. ssh -i sshkey.private bandit14@localhost
+- **Level 14 -> Level 15** :
+  - _Commands :_
+    1. ls
+    2. cat /etc/bandit_pass/bandit14
+    3. telnet localhost 30000
+  - _Password :_ BfMYroe26WYalil77FoDi9qh59eK5xNr
     
